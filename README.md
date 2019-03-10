@@ -6,17 +6,17 @@
  - Quick reference to get started (without overwhelming in official documentation)
  
 ## Table of Contents
-1. DevOps General Skills
+1. [DevOps General Skills](main/General/README.md)
 2. [Source Control Management](https://github.com/darshandeshmukh11/scm)
-3. Code Quality
-4. Unit and Functional Testing
-5. Containerization
-6. Continuous Integration
-7. Configuration Management
-8. Security
-9. Deployment
+3. [Code Quality](main/CodeQuality/README.md)
+4. [Unit and Functional Testing](main/Testing/README.md)
+5. [Containerization](main/Containerization/README.md)
+6. [Continuous Integration](main/ContinuousIntegration/README.md)
+7. [Configuration Management](main/ConfigurationManagement/README.md)
+8. [Security](main/Security/README.md)
+9. [Deployment](main/Deployment/README.md)
 10. [Cloud](main/Cloud/README.md)
-11. Monitoring
+11. [Monitoring](main/Monitoring/README.md)
 
 **Note:** This is an ongoing effort and totally based on my personal experiences, feel free to submit a PR to contribute. 
 
