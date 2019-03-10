@@ -15,7 +15,8 @@
 7. Configuration Management
 8. Security
 9. Deployment
-10. Monitoring
+10. Cloud
+11. Monitoring
 
 **Note:** This is an ongoing effort and totally based on my personal experiences, feel free to submit a PR to contribute. 
 
