@@ -7,7 +7,7 @@
  
 ## Table of Contents
 1. [DevOps General Skills](main/General/README.md)
-2. [Source Control Management](https://github.com/darshandeshmukh11/scm)
+2. [Source Control Management](main/SCM/README.md)
 3. [Code Quality](main/CodeQuality/README.md)
 4. [Unit and Functional Testing](main/Testing/README.md)
 5. [Containerization](main/Containerization/README.md)
